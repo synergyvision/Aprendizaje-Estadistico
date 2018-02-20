@@ -1,13 +1,13 @@
-# Aprendizaje Estadistico
+# Aprendizaje Estadístico
 Synergy Vision  
 `r Sys.Date()`  
 <script src="https://cdn.datacamp.com/datacamp-light-latest.min.js"></script>
 
 --- 
-title: "Aprendizaje Estadistico"
+title: "Aprendizaje Estadístico"
 subtitle: "Ciencia de los Datos Financieros"
 author: "Synergy Vision"
-date: "2018-02-19"
+date: "2018-02-20"
 knit: "bookdown::render_book"
 documentclass: krantz
 bibliography: [book.bib, packages.bib]
@@ -20,7 +20,7 @@ fontsize: 12pt
 monofontoptions: "Scale=0.8"
 keep_md: yes
 site: bookdown::bookdown_site
-description: "Introducción a Probabilidad y Estadística Matemática en R con aplicaciones en Finanzas."
+description: ""
 url: 'http\://synergy.vision/Aprendizaje-Estadistico/'
 github-repo: synergyvision/Aprendizaje-Estadistico
 cover-image: images/cover.png
